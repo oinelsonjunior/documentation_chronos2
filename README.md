@@ -9,6 +9,18 @@ Requisitos mínimos da máquina:
  - 12GB system RAM
  - Enable hardware virtualization in BIOS.
  
+# Virtualization
+Your machine must have the following features for Docker Desktop to function correctly:
+
+# WSL 2 and Windows Home
+ 1. Virtual Machine Platform
+
+ 2. Windows Subsystem for Linux 
+
+ 3. Virtualization enabled in the BIOS
+
+ 4. Hypervisor enabled at Windows startup
+    
 
 
 
