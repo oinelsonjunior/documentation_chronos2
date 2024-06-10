@@ -16,7 +16,8 @@ Your machine must have the following features for Docker Desktop to function cor
 
 # WSL 2 and Windows Home
  1. Virtual Machine Platform
-  1.1.  Install WSL command
+    
+     1.1.  Install WSL command
      - You can now install everything you need to run WSL with a single command. Open PowerShell or Windows Command Prompt in administrator mode by right-clicking and selecting "Run as administrator", enter the wsl --install command, then restart your machine.
 <b>In PowerShell:</b>
 
