@@ -20,6 +20,8 @@ Your machine must have the following features for Docker Desktop to function cor
  3. Virtualization enabled in the BIOS
 
  4. Hypervisor enabled at Windows startup
+![image](https://github.com/oinelsonjunior/documentation_chronos2/assets/7309691/740a673e-8d05-48e0-bed7-125f9f4f2786)
+
     
 
 
